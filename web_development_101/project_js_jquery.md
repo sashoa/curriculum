@@ -348,4 +348,5 @@ If you get totally stuck, solutions from other students are listed below.  I'd e
 * [Oscar Y's solution](https://github.com/mysteryihs/odin-project-jquery) | [View in Browser](https://htmlpreview.github.io/?https://github.com/mysteryihs/odin-project-jquery/index.html)
 * [Arkhans's solution](https://github.com/Arkhans/sketchpad) | [View in Browser](https://htmlpreview.github.io/?https://github.com/Arkhans/sketchpad/blob/master/index.html)
 * [John's solution](https://github.com/johnTheDudeMan/the_odin_project/tree/master/etch_a_sketch) | [View in Browser](http://htmlpreview.github.io/?https://github.com/johnTheDudeMan/the_odin_project/blob/master/etch_a_sketch/index.html)
+* [Sasho's solution] (https://github.com/sashoa/the-odin-project/blob/master/project-js-jquery/index.html) | [View in Browser] (http://htmlpreview.github.io/?https://github.com/sashoa/the-odin-project/blob/master/project-js-jquery/index.html)
 * Add your solution above this line!
