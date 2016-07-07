@@ -6,7 +6,7 @@
 ## Project 1: Twitter Spambot
 
 You've briefly learned about how to use Ruby to send requests to the web and parse responses.  When you're building real web applications, you'll often want to interface with other applications over the web via their API.  
-
+
 If you're not familiar with APIs, now's your chance.  In this case, Twitter gives you access to a bunch of their commonly used commands (like sending a tweet, accessing your followers, etc) but via your program instead of having to click buttons on their site.  Hence why it's called the Application Programming Interface... your application can programmatically access their system!  
 
 When companies make their APIs public, they usually want to limit the amount of spam and abuse so they make you authenticate yourself with each request.  You usually have to register your application with them and they give you a key to use to authenticate your requests.  Sometimes it's as simple as just including that key in the URL string when you make a request, but often these days they want a less hard-coded and more secure way of authenticating you.  
@@ -84,6 +84,7 @@ Note that, for this project, you may want to create a throwaway Twitter account 
 * [Austin Mason's solution](https://github.com/CouchofTomato/twitterapi)
 * [Jean Merlet's solution](https://github.com/jeanmerlet/micro_blogger)
 * [Oscar Y.'s solution](https://github.com/mysteryihs/ruby_projects/blob/master/micro_blogger.rb)
+* [Sasho's solution](https://github.com/sashoa/the-odin-project/tree/master/project-rubyontheweb/micro-blogger)
 * Add your solution above this line!
 
 ## Project 2: A Real Web Server and Browser (from the command line)
@@ -274,6 +275,7 @@ Now think about what you did.  Let it sink in, including some of the steps that 
 * [John Connor's solution](https://github.com/jacgitcz/tiny-browser-simple-server)
 * [Jean Merlet's solution](https://github.com/jeanmerlet/basic_browser-server)
 * [Oscar Y.'s solution](https://github.com/mysteryihs/ruby_projects/tree/master/Servers)
+* [Sasho's solution](https://github.com/sashoa/the-odin-project/tree/master/project-rubyontheweb/web-server-and-browser)
 * Add your solution above this line!
 
 
